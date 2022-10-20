@@ -1,0 +1,19 @@
+{
+  "name": "fredrik/dtbook",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Fredrik\\Dtbook\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Fredrik Gustafsson",
+      "email": "fredrik@teamleader.se"
+    }
+  ],
+  "require": {
+    "symfony/console": "^6.1"
+  }
+}
